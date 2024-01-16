@@ -1,0 +1,370 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Kobus van der Merwe",
+        "label": "Curriculum Vitae - 2023-03",
+        "email": "kobus@redigo-se.net",
+        "phone": "(+27) 82 909 5858",
+        "summary": "Specialist ML and software engineer with expertise in platforms, development, machine learning and data engineering, bringing along a broad and deep technical skill set. With 20+ years of experience in building end-to-end solutions across diverse industries, I am proficient in numerous tech stacks and software engineering practices. My creative and fresh perspective enabled teams to do more with less effort, and my determination has helped them deliver projects in a timely manner. I am an innovative professional seeking challenging roles where I can apply my skills and experience to maximum effect.",
+        "location": {
+            "city": "Pretoria",
+            "countryCode": "South Africa",
+            "region": "Gauteng"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "kobusvdm",
+                "url": "https://www.linkedin.com/in/kobusvdm/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "BMW IT Hub South Africa",
+            "company": "BMW IT Hub South Africa",
+            "position": "Site Reliability Engineer",
+            "startDate": "2023-05-01",
+            "highlights": [],
+            "summary": "Site reliability engineering and DevOps for the Plant Connectivity product",
+            "url": "https://www.linkedin.com/company/bmwithubsouthafrica/"
+        },
+        {
+            "name": "Vision Bank",
+            "company": "Vision Bank",
+            "position": "Principal Machine Learning Engineer",
+            "startDate": "2022-10-01",
+            "endDate": "2023-04-30",
+            "highlights": [],
+            "summary": "I oversee the design and implementation of the bank's data platform in the bank's Data & Advanced Analytics team from a machine learning and data engineering perspective. I further research data management practices and solutions for operational data and data warehouse systems, data ingestion and streaming, and enterprise-wide schema and lineage management.",
+            "url": "https://www.linkedin.com/company/visionbanksa/"
+        },
+        {
+            "name": "Vision Bank",
+            "company": "Vision Bank",
+            "position": "Development Chapter Lead",
+            "startDate": "2021-11-01",
+            "endDate": "2022-09-30",
+            "highlights": [],
+            "summary": "Chapter lead in a startup digital bank, managing 60+ software and test engineers across several Spotify tribes. I was responsible for line management, technological decisions, and product research for software engineering and testing.",
+            "url": "https://www.linkedin.com/company/visionbanksa/"
+        },
+        {
+            "name": "Fractal Labs",
+            "company": "Fractal Labs",
+            "position": "Chief Technology Officer",
+            "startDate": "2020-10-01",
+            "endDate": "2021-10-31",
+            "summary": "Technology Lead in a data analytics solution provider. Fractal Labs was a continuation of my role at MyBucks after the group restructured in 2020.",
+            "url": "https://www.linkedin.com/company/fractallabs/"
+        },
+        {
+            "name": "MyBucks",
+            "company": "MyBucks",
+            "position": "Data Scientist",
+            "startDate": "2018-01-01",
+            "endDate": "2020-09-30",
+            "summary": "Cluster provisioning, DevOps Lead, ML Engineering, and fraud detection.",
+            "highlights": [
+                "Built 3 high availability Openshift clusters and supporting CloudStack infrastructure.",
+                "Openshift and the CentOS nodes was fully automated using Ansible and custom templates.",
+                "Automated DevOps pipelines for 25+ projects with GitOps practices.",
+                "Provisioned Elastic Search, Kafka, and Neo4J with high availability in Openshift.",
+                "Team Lead of an in-house fraud detector using Python and Neo4J.", 
+                "Provisioned 10+ Postgres and MySQL servers to Openshift.",
+                "Developed cross-platform integration for multiple projects.", 
+                "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA."                
+            ],
+            "url": "https://www.linkedin.com/company/mybucks/"
+        },
+        {
+            "name": "Synerics",
+            "company": "Synerics",
+            "position": "Software Engineer",
+            "startDate": "2016-04-01",
+            "endDate": "2017-12-31",
+            "summary": "Development and maintenance of insurance backend systems using MS SQL, .NET (C#), hybrid micro service architectures & continuous deployments.",
+            "highlights": [
+                "Online shop portal (UI & backend) using ASP.NET Web API, angular, MS SQL, Azure & 3rd party integrations (shipment, ID verification, bank verification).",
+                "Built T/SQL reverse engineering tools using Powershell and Microsoft SQL SMO for highly complex MS SQL environments across two data centres. This was done to enable dependency tracing, source control, and regression testing, allowing deterministic retrieval of several hundred SQL objects in a single run."
+            ],
+            "url": "https://www.linkedin.com/company/synerics/"
+        },
+        {
+            "name": "Matogen",
+            "company": "Matogen",
+            "position": "Software Engineer",
+            "startDate": "2010-12-31",
+            "endDate": "2016-03-31",
+            "highlights": [
+                "I designed and implemented 3D terrain rendering, hypsometric tinting, structural monitoring, and satellite image projection software using ASP.NET, C# and T/SQL.",
+                "Designed and built robust task management and scheduling software and applied it to data acquisition, database maintenance and video stream processing across multiple projects."
+            ],
+            "summary": "Participating in a small team of industry experts, I developed geo-spatial and land survey applications for an international client."
+        },
+        {
+            "name": "Redigo Software Engineering",
+            "company": "Redigo Software Engineering",
+            "position": "Founder",
+            "startDate": "2013-05-01",
+            "summary": "Redigo Software supplies data analytics, machine learning and specialized software engineering services.",
+            "highlights": [
+                "Openshift OKD architecture. Public, private, and hybrid cloud environments, provisioning, and high availability",
+                "DevOps architecture & consultation",
+                "Data analytics, data engineering, machine learning", 
+                "Specialized software engineering services"
+            ]
+        },
+        {
+            "name": "The IQ Business Group, Inc",
+            "company": "The IQ Business Group, Inc",
+            "position": "Senior Principal Consultant",
+            "startDate": "2012-02-01",
+            "endDate": "2013-04-30",
+            "highlights": [],
+            "summary": "Software engineering for large enterprise clients in the financial sector. I designed and developed .NET desktop and web solutions in a high security environment.",
+            "url": "https://www.linkedin.com/company/the-iq-business-group-inc/"
+        },
+        {
+            "name": "Momentum",
+            "company": "Momentum",
+            "position": "Solution Architect",
+            "startDate": "2009-01-01",
+            "endDate": "2012-01-31",
+            "highlights": [],
+            "summary": "I guided technological decisions and architecture and lead development of the call centre integration systems using C#, .NET, WCF and MS SQL"
+        },
+        {
+            "name": "Momentum",
+            "company": "Momentum",
+            "position": "Senior C# Developer",
+            "startDate": "2008-08-01",
+            "endDate": "2008-12-31",
+            "highlights": [],
+            "summary": "At Momentum I designed and developed integration services in the call centre software team using C#, .NET, WCF and MS SQL"
+        },
+        {
+            "name": "Osiris Trading",
+            "company": "Osiris Trading",
+            "position": "Senior Developer",
+            "startDate": "2007-10-01",
+            "endDate": "2008-07-31",
+            "highlights": [],
+            "summary": "I developed .NET web services in a high availability, high traffic volume environment using C#, .NET and WCF.",
+            "url": "https://www.linkedin.com/company/osiris-trading/"
+        },
+        {
+            "name": "QMuzik",
+            "company": "QMuzik",
+            "position": "Senior Developer",
+            "startDate": "2005-06-01",
+            "endDate": "2007-09-30",
+            "highlights": [],
+            "summary": "Specialized ERP software development, using C#, T/SQL, Oracle, Embedded C and C++.",
+            "url": "https://www.linkedin.com/company/qmuzik/"
+        },
+        {
+            "name": "Computer Foundation",
+            "company": "Computer Foundation",
+            "position": "C# Developer",
+            "startDate": "2003-04-30",
+            "endDate": "2005-05-31",
+            "highlights": [],
+            "summary": "Development of a mobile infrastructure and asset management system. The client was a local railway company where I developed interactive geographic tools using Microsoft .NET, T/SQL, C/C++, and spatial data."
+        },
+        {
+            "name": "Oberdata",
+            "company": "Oberdata",
+            "position": "Part-time Developer",
+            "startDate": "2000-12-31",
+            "endDate": "2003-03-31",
+            "highlights": [],
+            "summary": "Part-time development of ERP systems.",
+            "url": "https://www.linkedin.com/company/oberdata/"
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Pretoria",
+            "area": "Computer Science",
+            "studyType": "Bsc (Hons)",
+            "startDate": "1999-02-01",
+            "endDate": "2002-11-30",
+            "courses": []
+        }
+    ],
+    "skills": [
+        {
+            "name": "Infrastructure",
+            "level": "Advanced",
+            "keywords": [
+                "kubernetes",
+                "kubernetes provisioning",
+                "deployment automation",
+                "docker",
+                "openshift",
+                "architecture",
+                "high availability",
+                "storage",
+                "glusterfs"
+            ],
+            "rating": 4,
+            "yearsOfExperience": 3
+        },
+        {
+            "name": "Operating Systems",
+            "level": "Master",
+            "keywords": [
+                "automation",
+                "configuration",
+                "linux",
+                "performance",
+                "deployment",
+                "monitoring",
+                "windows"
+            ],
+            "rating": 4,
+            "yearsOfExperience": 22
+        },
+        {
+            "name": "Geographic Information Systems",
+            "level": "Advanced",
+            "keywords": [
+                "photogrammetry",
+                "terrain rendering",
+                "3d",
+                "satellite imagery",
+                "point clouds",
+                "projections",
+                "data acquisition",
+                "visualization",
+                "mapping",
+                "mosaic",
+                "hypsometric tinting"
+            ],
+            "rating": 4,
+            "yearsOfExperience": 5
+        },
+        {
+            "name": "Technology",
+            "level": "Master",
+            "keywords": [
+                "ansible",
+                "bash",
+                "C/C++",
+                "c#",
+                "ci/cd",
+                "cypher",
+                "git",
+                "gitlab",
+                "github",
+                "graph databases",
+                "javascript",
+                "jenkins",
+                "kafka",
+                "kubernetes",
+                "linux",
+                "mongodb",
+                "ms sql",
+                "neo4j",
+                "node.js",
+                "openshift",
+                "powershell",
+                "python",
+                "sql",
+                "t/sql",
+                "webgl",
+                ".net",
+                "docker",
+                "windows"
+            ],
+            "rating": 4,
+            "yearsOfExperience": 22
+        },
+        {
+            "name": "Data & Analytics",
+            "level": "Advanced",
+            "keywords": [
+                "analysis",
+                "automation",
+                "data acquisition",
+                "data cleansing",
+                "data engineering",
+                "data integration",
+                "data science",
+                "machine learning",
+                "migration",
+                "modelling",
+                "processing",
+                "statistics",
+                "schema design",
+                "visualization"
+            ],
+            "rating": 4,
+            "yearsOfExperience": 3
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mathematics",
+            "summary": "I enjoy solving mathematical problems and puzzles.",
+            "keywords": [
+                "logic",
+                "graph theory",
+                "combinatorics",
+                "differential equations",
+                "optimization"
+            ]
+        },
+        {
+            "name": "Artificial Intelligence",
+            "summary": "Exited by the possibilities of AI and machine learning.",
+            "keywords": [
+                "computer vision",
+                "natural language processing",
+                "knowledge graphs",
+                "deep learning"
+
+           ]
+        },
+        {
+            "name": "Software Engineering",
+            "summary": "Inspired by the possibilities and challenges of software engineering.",
+            "keywords": [
+                "formal methods",
+                "scheduling",
+                "automation",
+                "devops",
+                "concurrency",
+                "distributed systems",
+                "algorithms",
+                "geo-spatial",
+                "data science"
+            ]
+        },
+        {
+            "name": "Other",
+            "keywords": [
+                "photography",
+                "hiking",
+                "bonsai",
+                "woodworking",
+                "puzzles"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Afrikaans",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        }
+    ],
+    "references": [],
+    "meta": {
+        "theme": "Elegant"
+    }
+}
