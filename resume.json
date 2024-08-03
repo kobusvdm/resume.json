@@ -56,6 +56,9 @@
             "startDate": "2020-10-01",
             "endDate": "2021-10-31",
             "summary": "Technology Lead in a data analytics solution provider. Fractal Labs was a continuation of my role at MyBucks after the group restructured in 2020.",
+            "highlights": [
+                "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA, Openshift, Kubernetes, DevOps, MLOps"
+            ],
             "url": "https://www.linkedin.com/company/fractallabs/"
         },
         {
@@ -73,7 +76,7 @@
                 "Team Lead of an in-house fraud detector using Python and Neo4J.", 
                 "Provisioned 10+ Postgres and MySQL servers to Openshift.",
                 "Developed cross-platform integration for multiple projects.", 
-                "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA."                
+                "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA, DevOps, MLOps"                
             ],
             "url": "https://www.linkedin.com/company/mybucks/"
         },
@@ -257,6 +260,7 @@
                 "C/C++",
                 "c#",
                 "ci/cd",
+                "devops",
                 "cypher",
                 "git",
                 "gitlab",
@@ -267,6 +271,7 @@
                 "kafka",
                 "kubernetes",
                 "linux",
+                "mlops",
                 "mongodb",
                 "ms sql",
                 "neo4j",
