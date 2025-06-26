@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
         "name": "Kobus van der Merwe",
-        "label": "Curriculum Vitae - 2024-08",
+        "label": "Curriculum Vitae - 2025-06",
         "email": "kobus@redigo-se.net",
         "phone": "(+27) 82 909 5858",
         "summary": "Specialist ML and software engineer with expertise in platforms, devops, machine learning and data engineering, bringing along a broad and deep technical skill set. 25 years of experience in building end-to-end solutions across diverse industries and technologies.",
@@ -21,10 +21,20 @@
     },
     "work": [
         {
+            "name": "PwC South Africa",
+            "company": "PwC South Africa",
+            "position": "Specialist Data Platform Software Engineer",
+            "startDate": "2024-10-01",
+            "highlights": [],
+            "summary": "Data Modelling Platform design and implementation to enable bespoke actuarial and data science solutions for clients. I am responsible for the design and implementation of platform components, including data ingestion, data processing, and data storage.",
+            "url": "https://www.linkedin.com/company/pwc/"
+        },
+        {
             "name": "BMW IT Hub South Africa",
             "company": "BMW IT Hub South Africa",
             "position": "Site Reliability Engineer",
             "startDate": "2023-05-01",
+            "endDate": "2024-09-30",
             "highlights": [],
             "summary": "Site reliability engineering and DevOps for the Plant Connectivity product",
             "url": "https://www.linkedin.com/company/bmwithubsouthafrica/"
@@ -107,15 +117,16 @@
             "url": "https://www.linkedin.com/company/matogen-corporate-web-development/"
         },
         {
-            "name": "Redigo Software Engineering",
-            "company": "Redigo Software Engineering",
+            "name": "Marching Kubes",
+            "company": "Marching Kubes",
             "position": "Founder",
             "startDate": "2013-05-01",
-            "summary": "Redigo Software supplies data analytics, machine learning and specialized software engineering services.",
+            "summary": "Marching Kubes supplies data analytics, machine learning and specialized software engineering services.",
             "highlights": [
                 "Openshift OKD architecture. Public, private, and hybrid cloud environments, provisioning, and high availability",
                 "DevOps architecture & consultation",
-                "Data analytics, data engineering, machine learning", 
+                "Data analytics, data engineering, machine learning",
+                "3D graphics, photogrammetry, GIS",
                 "Specialized software engineering services"
             ]
         },
