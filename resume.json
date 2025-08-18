@@ -212,14 +212,18 @@
     ],
     "skills": [
         {
-            "name": "Infrastructure",
+            "name": "Data & Analytics",
             "level": "Advanced",
             "keywords": [
-                "Kubernetes",
-                "Deployment Automation",
-                "Docker",
-                "Openshift",
-                "High Availability"
+                "Data Acquisition",
+                "Data Cleansing",
+                "Data Engineering",
+                "Data Integration",
+                "Machine Learning",
+                "Modelling",
+                "Processing",
+                "Visualization",
+                "MlOps"
             ],
             "rating": 4,
             "yearsOfExperience": 3
@@ -269,18 +273,14 @@
             "yearsOfExperience": 22
         },
         {
-            "name": "Data & Analytics",
+            "name": "Infrastructure",
             "level": "Advanced",
             "keywords": [
-                "Data Acquisition",
-                "Data Cleansing",
-                "Data Engineering",
-                "Data Integration",
-                "Machine Learning",
-                "Modelling",
-                "Processing",
-                "Visualization",
-                "MlOps"
+                "Kubernetes",
+                "Deployment Automation",
+                "Docker",
+                "Openshift",
+                "High Availability"
             ],
             "rating": 4,
             "yearsOfExperience": 3
