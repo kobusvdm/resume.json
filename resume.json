@@ -55,7 +55,7 @@
             "position": "Data Scientist",
             "startDate": "2018-01-01",
             "endDate": "2021-10-31",
-            "summary": "Cluster provisioning, DevOps Lead, ML Engineering, and fraud detection.",
+            "summary": "Cluster provisioning, DevOps Lead, ML Engineering, and fraud detection. In a team of expert data scientists and engineers, I was responsible for the design and implementation of the data and operational platform, MLOps pipelines, and fraud detection systems. I worked closely with other data scientists to deploy machine learning models into production and ensure their scalability and reliability. At the end of my tenure I also acted as CTO after the group restructured.",
             "highlights": [
                 "Built 3 high availability Openshift clusters and supporting CloudStack infrastructure.",
                 "Openshift and the CentOS nodes was fully automated using Ansible and custom templates.",
