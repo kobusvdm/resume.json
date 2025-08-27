@@ -43,18 +43,40 @@
             "name": "Vision Bank",
             "company": "Vision Bank",
             "position": "Principal Machine Learning Engineer",
-            "startDate": "2021-11-01",
+            "startDate": "2022-10-01",
             "endDate": "2023-04-30",
             "highlights": [],
-            "summary": "I oversaw the design and implementation of the bank's data platform in the bank's Data & Advanced Analytics team from a machine learning and data engineering perspective. I further researched data management practices and solutions for operational data and data warehouse systems, data ingestion and streaming, and enterprise-wide schema and lineage management. At the start of my tenure I also acted as the Development Chapter Lead, managing 60+ software and test engineers across several Spotify tribes. I was responsible for line management, technological decisions, and product research for software engineering and testing.",
+            "summary": "I oversee the design and implementation of the bank's data platform in the bank's Data & Advanced Analytics team from a machine learning and data engineering perspective. I further research data management practices and solutions for operational data and data warehouse systems, data ingestion and streaming, and enterprise-wide schema and lineage management.",
             "url": "https://www.linkedin.com/company/visionbanksa/"
+        },
+        {
+            "name": "Vision Bank",
+            "company": "Vision Bank",
+            "position": "Development Chapter Lead",
+            "startDate": "2021-11-01",
+            "endDate": "2022-09-30",
+            "highlights": [],
+            "summary": "Chapter lead in a startup digital bank, managing 60+ software and test engineers across several Spotify tribes. I was responsible for line management, technological decisions, and product research for software engineering and testing.",
+            "url": "https://www.linkedin.com/company/visionbanksa/"
+        },
+        {
+            "name": "Fractal Labs",
+            "company": "Fractal Labs",
+            "position": "Chief Technology Officer",
+            "startDate": "2020-10-01",
+            "endDate": "2021-10-31",
+            "summary": "Technology Lead in a data analytics solution provider. Fractal Labs was a continuation of my role at MyBucks after the group restructured in 2020.",
+            "highlights": [
+                "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA, Openshift, Kubernetes, DevOps, MLOps"
+            ],
+            "url": "https://www.linkedin.com/company/fractallabs/"
         },
         {
             "name": "MyBucks",
             "company": "MyBucks",
             "position": "Data Scientist",
             "startDate": "2018-01-01",
-            "endDate": "2021-10-31",
+            "endDate": "2020-09-30",
             "summary": "Cluster provisioning, DevOps Lead, ML Engineering, and fraud detection.",
             "highlights": [
                 "Built 3 high availability Openshift clusters and supporting CloudStack infrastructure.",
@@ -69,21 +91,113 @@
             "url": "https://www.linkedin.com/company/mybucks/"
         },
         {
-            "name": "Various Freelance Clients",
-            "company": "Various Freelance Clients",
-            "position": "Senior Software Engineer",
-            "startDate": "1999-06-01",
+            "name": "Synerics",
+            "company": "Synerics",
+            "position": "Software Engineer",
+            "startDate": "2016-04-01",
             "endDate": "2017-12-31",
-            "summary": "I have worked as a freelance software engineer and permanent resource for various clients, including small businesses, startups, and large enterprises. I have developed mission-critical enterprise services and web/desktop/mobile applications using a variety of technologies.",
+            "summary": "Development and maintenance of insurance backend systems using MS SQL, .NET (C#), hybrid micro service architectures & continuous deployments.",
             "highlights": [
                 "Online shop portal (UI & backend) using ASP.NET Web API, angular, MS SQL, Azure & 3rd party integrations (shipment, ID verification, bank verification).",
-                "Built T/SQL reverse engineering tools using Powershell and Microsoft SQL SMO for highly complex MS SQL environments across two data centres. This was done to enable dependency tracing, source control, and regression testing, allowing deterministic retrieval of several hundred SQL objects in a single run.",
+                "Built T/SQL reverse engineering tools using Powershell and Microsoft SQL SMO for highly complex MS SQL environments across two data centres. This was done to enable dependency tracing, source control, and regression testing, allowing deterministic retrieval of several hundred SQL objects in a single run."
+            ],
+            "url": "https://www.linkedin.com/company/synerics/"
+        },
+        {
+            "name": "Matogen",
+            "company": "Matogen",
+            "position": "Software Engineer",
+            "startDate": "2010-12-31",
+            "endDate": "2016-03-31",
+            "highlights": [
                 "I designed and implemented 3D terrain rendering, hypsometric tinting, structural monitoring, and satellite image projection software using ASP.NET, C# and T/SQL.",
-                "Designed and built robust task management and scheduling software and applied it to data acquisition, database maintenance and video stream processing across multiple projects.",
-                "Software engineering for large enterprise clients in the banking and insurance sector. I designed and developed .NET desktop and web solutions in a high security environment, call centre integration platforms and insurance backend systems.",
-                "Bespoke ERP software development, using C#, T/SQL, Oracle, Embedded C and C++.",
-                "Developed mobile logistics planning and infrastructure and asset management systems using C#, T/SQL, C/C++."
+                "Designed and built robust task management and scheduling software and applied it to data acquisition, database maintenance and video stream processing across multiple projects."
+            ],
+            "summary": "Participating in a small team of industry experts, I developed geo-spatial and land survey applications for an international client.",
+            "url": "https://www.linkedin.com/company/matogen-corporate-web-development/"
+        },
+        {
+            "name": "Marching Kubes",
+            "company": "Marching Kubes",
+            "position": "Founder",
+            "startDate": "2013-05-01",
+            "summary": "Marching Kubes supplies data analytics, machine learning and specialized software engineering services.",
+            "highlights": [
+                "Openshift OKD architecture. Public, private, and hybrid cloud environments, provisioning, and high availability",
+                "DevOps architecture & consultation",
+                "Data analytics, data engineering, machine learning",
+                "3D graphics, photogrammetry, GIS",
+                "Specialized software engineering services"
             ]
+        },
+        {
+            "name": "The IQ Business Group, Inc",
+            "company": "The IQ Business Group, Inc",
+            "position": "Senior Principal Consultant",
+            "startDate": "2012-02-01",
+            "endDate": "2013-04-30",
+            "highlights": [],
+            "summary": "Software engineering for large enterprise clients in the financial sector. I designed and developed .NET desktop and web solutions in a high security environment.",
+            "url": "https://www.linkedin.com/company/iq-business/"
+        },
+        {
+            "name": "Momentum",
+            "company": "Momentum",
+            "position": "Solution Architect",
+            "startDate": "2009-01-01",
+            "endDate": "2012-01-31",
+            "highlights": [],
+            "summary": "I guided technological decisions and architecture and lead development of the call centre integration systems using C#, .NET, WCF and MS SQL",
+            "url": "https://www.linkedin.com/company/momentum_2/"
+        },
+        {
+            "name": "Momentum",
+            "company": "Momentum",
+            "position": "Senior C# Developer",
+            "startDate": "2008-08-01",
+            "endDate": "2008-12-31",
+            "highlights": [],
+            "summary": "At Momentum I designed and developed integration services in the call centre software team using C#, .NET, WCF and MS SQL",
+            "url": "https://www.linkedin.com/company/momentum_2/"
+        },
+        {
+            "name": "Osiris Trading",
+            "company": "Osiris Trading",
+            "position": "Senior Developer",
+            "startDate": "2007-10-01",
+            "endDate": "2008-07-31",
+            "highlights": [],
+            "summary": "I developed .NET web services in a high availability, high traffic volume environment using C#, .NET and WCF.",
+            "url": "https://www.linkedin.com/company/osiris-trading/"
+        },
+        {
+            "name": "QMuzik",
+            "company": "QMuzik",
+            "position": "Senior Developer",
+            "startDate": "2005-06-01",
+            "endDate": "2007-09-30",
+            "highlights": [],
+            "summary": "Specialized ERP software development, using C#, T/SQL, Oracle, Embedded C and C++.",
+            "url": "https://www.linkedin.com/company/qmuzik/"
+        },
+        {
+            "name": "Computer Foundation",
+            "company": "Computer Foundation",
+            "position": "C# Developer",
+            "startDate": "2003-04-30",
+            "endDate": "2005-05-31",
+            "highlights": [],
+            "summary": "Development of a mobile infrastructure and asset management system. The client was a local railway company where I developed interactive geographic tools using Microsoft .NET, T/SQL, C/C++, and spatial data."
+        },
+        {
+            "name": "Oberdata",
+            "company": "Oberdata",
+            "position": "Part-time Developer",
+            "startDate": "2000-12-31",
+            "endDate": "2003-03-31",
+            "highlights": [],
+            "summary": "Part-time development of ERP systems.",
+            "url": "https://www.linkedin.com/company/oberdata/"
         }
     ],
     "education": [
@@ -105,32 +219,11 @@
                 "Data Cleansing",
                 "Data Engineering",
                 "Data Integration",
-                "Fraud Detection",
                 "Machine Learning",
                 "Modelling",
                 "Processing",
                 "Visualization",
                 "MlOps"
-            ],
-            "rating": 4,
-            "yearsOfExperience": 3
-        },
-        {
-            "name": "Industry",
-            "level": "Advanced",
-            "keywords": [
-                "Consulting",
-                "Banking",
-                "Finance",
-                "Insurance",
-                "Lending",
-                "Credit Scoring",
-                "Risk Management",
-                "Actuarial Science",
-                "Geologic Surveying",
-                "Remote Sensing",
-                "Automotive",
-                "Manufacturing"
             ],
             "rating": 4,
             "yearsOfExperience": 3
