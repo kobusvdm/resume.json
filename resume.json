@@ -69,12 +69,12 @@
             "url": "https://www.linkedin.com/company/mybucks/"
         },
         {
-            "name": "Various Freelance Clients",
-            "company": "Various Freelance Clients",
+            "name": "Various Clients",
+            "company": "Various Clients",
             "position": "Senior Software Engineer",
             "startDate": "1999-06-01",
             "endDate": "2017-12-31",
-            "summary": "I have worked as a freelance software engineer and permanent resource for various clients, including small businesses, startups, and large enterprises. I have developed mission-critical enterprise services and web/desktop/mobile applications using a variety of technologies.",
+            "summary": "I have worked as a freelance consultant and permanent resource for various clients, including small businesses, startups, and large enterprises. I have developed mission-critical enterprise services and web/desktop/mobile applications using a variety of technologies across different industries.",
             "highlights": [
                 "Online shop portal (UI & backend) using ASP.NET Web API, angular, MS SQL, Azure & 3rd party integrations (shipment, ID verification, bank verification).",
                 "Built T/SQL reverse engineering tools using Powershell and Microsoft SQL SMO for highly complex MS SQL environments across two data centres. This was done to enable dependency tracing, source control, and regression testing, allowing deterministic retrieval of several hundred SQL objects in a single run.",
@@ -113,7 +113,7 @@
                 "MlOps"
             ],
             "rating": 4,
-            "yearsOfExperience": 3
+            "yearsOfExperience": 7
         },
         {
             "name": "Industry",
@@ -121,6 +121,7 @@
             "keywords": [
                 "Consulting",
                 "Banking",
+                "Leadership",
                 "Finance",
                 "Insurance",
                 "Lending",
@@ -133,7 +134,7 @@
                 "Manufacturing"
             ],
             "rating": 4,
-            "yearsOfExperience": 3
+            "yearsOfExperience": 26
         },
         {
             "name": "Geographic Information Systems",
@@ -177,7 +178,7 @@
                 "Docker"
             ],
             "rating": 4,
-            "yearsOfExperience": 22
+            "yearsOfExperience": 26
         },
         {
             "name": "Infrastructure",
@@ -190,7 +191,7 @@
                 "High Availability"
             ],
             "rating": 4,
-            "yearsOfExperience": 3
+            "yearsOfExperience": 7
         }
     ],
     "interests": [
