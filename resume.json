@@ -46,7 +46,7 @@
             "startDate": "2021-11-01",
             "endDate": "2023-04-30",
             "highlights": [],
-            "summary": "I oversaw the design and implementation of the bank's data platform in the bank's Data & Advanced Analytics team from a machine learning and data engineering perspective. I further researched data management practices and solutions for operational data and data warehouse systems, data ingestion and streaming, and enterprise-wide schema and lineage management. At the start of my tenure I also acted as the Development Chapter Lead, managing 60+ software and test engineers across several Spotify tribes. I was responsible for line management, technological decisions, and product research for software engineering and testing.",
+            "summary": "I oversaw the design and implementation of the bank's data platform in the Data & Advanced Analytics team from a machine learning and data engineering perspective. I further researched data management practices and solutions for operational data and data warehouse systems, data ingestion and streaming, and enterprise-wide schema and lineage management. At the start of my tenure I also acted as the Development Chapter Lead, managing 60+ software and test engineers across several Spotify tribes. I was responsible for line management, technological decisions, and product research for software engineering and testing.",
             "url": "https://www.linkedin.com/company/visionbanksa/"
         },
         {
@@ -67,6 +67,23 @@
                 "MS SQL, MongoDB, Neo4J, .NET Web APIs, Python, C#, XGBoost, CUDA, DevOps, MLOps"                
             ],
             "url": "https://www.linkedin.com/company/mybucks/"
+        },
+        {
+            "name": "Marching Kubes",
+            "company": "Marching Kubes",
+            "position": "Founder",
+            "startDate": "2013-05-01",
+            "summary": "Marching Kubes supplies data analytics, machine learning and bespoke software engineering services.",
+            "highlights": [
+                "Machine Learning, Data Analytics, Data Engineering.",
+                "MlOps, CI/CD, Docker, DevOps architecture & consultation.",
+                "Generative AI / Agentic LLM / Model Context Protocol integration and consulting, FastMCP, LangChain, LlamaIndex.",
+                "Document understanding, knowledge graphs, semantic search.",
+                "Python / .NET / Node.js software development.",
+                "Kubernetes / consulting. Public, private, and hybrid cloud environments, provisioning, and high availability.",
+                "3D graphics, photogrammetry, GIS.",
+                "Specialized software engineering services."
+            ]
         },
         {
             "name": "Various Clients",
