@@ -23,6 +23,7 @@
   "work": [
     {
       "name": "PwC South Africa",
+      "company": "PwC South Africa",
       "position": "Data Platform Software Engineer",
       "url": "https://www.linkedin.com/company/pwc/",
       "startDate": "2024-10-01",
@@ -35,6 +36,7 @@
     },
     {
       "name": "BMW IT Hub South Africa",
+      "company": "BMW IT Hub South Africa",
       "position": "Site Reliability Engineer",
       "url": "https://www.linkedin.com/company/bmwithubsouthafrica/",
       "startDate": "2023-05-01",
@@ -48,6 +50,7 @@
     },
     {
       "name": "Vision Bank",
+      "company": "Vision Bank",
       "position": "Principal Machine Learning Engineer",
       "url": "https://www.linkedin.com/company/visionbanksa/",
       "startDate": "2022-10-01",
@@ -61,6 +64,7 @@
     },
     {
       "name": "Vision Bank",
+      "company": "Vision Bank",
       "position": "Development Chapter Lead",
       "url": "https://www.linkedin.com/company/visionbanksa/",
       "startDate": "2021-11-01",
@@ -74,6 +78,7 @@
     },
     {
       "name": "Fractal Labs",
+      "company": "Fractal Labs",
       "position": "Chief Technology Officer",
       "url": "https://www.linkedin.com/company/fractallabs/",
       "startDate": "2020-10-01",
@@ -87,6 +92,7 @@
     },
     {
       "name": "MyBucks",
+      "company": "MyBucks",
       "position": "Data Scientist",
       "url": "https://www.linkedin.com/company/mybucks/",
       "startDate": "2018-01-01",
@@ -102,6 +108,7 @@
     },
     {
       "name": "Marching Kubes",
+      "company": "Marching Kubes",
       "position": "Founder",
       "startDate": "2013-05-01",
       "summary": "Boutique consultancy for data platforms, ML/MLOps, DevOps and GIS/3D.",
@@ -114,6 +121,7 @@
     },
     {
       "name": "Various Clients",
+      "company": "Various Clients",
       "position": "Senior Software Engineer",
       "startDate": "1999-06-01",
       "endDate": "2017-12-31",
