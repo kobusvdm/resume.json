@@ -161,17 +161,17 @@
   "skills": [
     {
       "name": "Data & Analytics",
-      "level": "Expert",
+      "level": "Master",
       "keywords": ["Data Engineering", "MLOps", "Streaming", "Fraud Detection", "Generative AI", "Visualization"]
     },
     {
       "name": "Platforms & Infra",
-      "level": "Expert",
+      "level": "Master",
       "keywords": ["Kubernetes", "OpenShift", "CI/CD", "IaC (Ansible)", "Docker", "High Availability", "Observability"]
     },
     {
       "name": "Languages & Frameworks",
-      "level": "Expert",
+      "level": "Master",
       "keywords": ["Python", "C#", "SQL/T-SQL", "Cypher", ".NET", "Node.js", "FastAPI", "Flask", "WebGL"]
     },
     {
