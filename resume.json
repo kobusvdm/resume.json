@@ -1,320 +1,207 @@
 {
-    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-    "basics": {
-        "name": "Kobus van der Merwe",
-        "label": "Curriculum Vitae - 2025-09-22",
-        "email": "kobus@redigo-se.net",
-        "phone": "(+27) 82 909 5858",
-        "summary": "Machine Learning & Software Engineer | Freelance Consultant with over 25 years of experience designing and delivering data platforms, MLOps pipelines, and specialized software solutions across industries such as finance, automotive, consulting, and digital banking. My career is defined by building production-grade systems that seamlessly bridge research and operations, helping organizations unlock value through data and automation.\n\nFrom leading 60+ engineers as a Chapter Lead in a digital bank, to designing actuarial data platforms at PwC, to driving site reliability at BMW’s IT Hub, I thrive at the intersection of data engineering, DevOps, and machine learning. My expertise spans Python, C#, Kubernetes, OpenShift, and distributed data systems, underpinned by a strong foundation in fraud detection, graph databases, and high-availability deployments.\n\nAs a consultant and founder of Marching Kubes, I have delivered bespoke analytics, GIS, and machine learning solutions. Whether architecting scalable data platforms, automating complex deployments, or mentoring teams, I approach every challenge with a focus on reliability, innovation, and impact.\n\nBeyond my professional work, I have a keen interest in artificial intelligence, graph theory, and optimization, and enjoy exploring how advanced computing can transform industries and solve complex problems.",
-        "location": {
-            "city": "Pretoria",
-            "countryCode": "South Africa",
-            "region": "Gauteng"
-        },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "kobusvdm",
-                "url": "https://www.linkedin.com/in/kobusvdm/"
-            }
-        ]
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kobus van der Merwe",
+    "label": "Principal ML & Data Platform Engineer",
+    "email": "kobus@redigo-se.net",
+    "phone": "(+27) 82 909 5858",
+    "url": "https://www.linkedin.com/in/kobusvdm/",
+    "location": {
+      "city": "Pretoria",
+      "region": "Gauteng",
+      "countryCode": "ZA"
     },
-    "work": [
-        {
-            "name": "PwC South Africa",
-            "company": "PwC South Africa",
-            "position": "Data Platform Software Engineer",
-            "startDate": "2024-10-01",
-            "highlights": [],
-            "summary": "Designing and implementing a data modelling platform to power bespoke actuarial and data science solutions. Responsible for architecture of data ingestion, processing, and storage components using Python, SQL, GraphQL, Kubernetes, AKS, and Azure DevOps practices. Building scalable pipelines that enable advanced analytics for clients.",
-            "url": "https://www.linkedin.com/company/pwc/"
-        },
-        {
-            "name": "BMW IT Hub South Africa",
-            "company": "BMW IT Hub South Africa",
-            "position": "Site Reliability Engineer",
-            "startDate": "2023-05-01",
-            "endDate": "2024-09-30",
-            "highlights": [],
-            "summary": "I supported production plant connectivity by applying Site Reliability Engineering and DevOps best practices for complex, globally distributed solutions across public and private cloud infrastructure. My work centered on Kubernetes, Docker, ArgoCD, Github Workflows, and observability tooling to improve uptime, monitoring, and reliability of high-volume automotive data systems, thereby reducing production losses by minimizing downtime and enhancing system resilience.",
-            "url": "https://www.linkedin.com/company/bmwithubsouthafrica/"
-        },
-        {
-            "name": "Vision Bank",
-            "company": "Vision Bank",
-            "position": "Principal Machine Learning Engineer",
-            "startDate": "2022-10-01",
-            "endDate": "2023-04-30",
-            "highlights": [],
-            "summary": "Led the design of the bank’s enterprise data platform within the Data & Advanced Analytics team from a machine learning and data engineering perspective. I developed solutions for data ingestion, streaming, schema management, and lineage tracking. Combined Python, SQL, Kafka, and ML engineering expertise to enable robust machine learning and reporting capabilities across the bank.",
-            "url": "https://www.linkedin.com/company/visionbanksa/"
-        },
-        {
-            "name": "Vision Bank",
-            "company": "Vision Bank",
-            "position": "Development Chapter Lead",
-            "startDate": "2021-11-01",
-            "endDate": "2022-09-30",
-            "highlights": [],
-            "summary": "As Chapter Lead, I managed over 60 engineers across multiple Spotify tribes in a digital bank startup. I guided engineering standards, improved software development and test automation, and supported both people leadership and technology direction. I drove adoption of modern practices in C#, Python, DevOps, and CI/CD, balancing line management with strategic technology research to enhance delivery velocity and system quality.",
-            "url": "https://www.linkedin.com/company/visionbanksa/"
-        },
-        {
-            "name": "Fractal Labs",
-            "company": "Fractal Labs",
-            "position": "Chief Technology Officer",
-            "startDate": "2018-01-01",
-            "endDate": "2021-10-31",
-            "summary": "Directed technology strategy and delivery at a data analytics provider. I led architecture and deployment of platforms using MS SQL, Kafka, MongoDB, Neo4j, MySQL, Postgres, .NET Web APIs, Python, C#, XGBoost, CUDA, Kubernetes, and OpenShift. Delivered client-facing financial analytics and fraud detection systems with strong MLOps and DevOps foundations. Fractal Labs was a continuation of MyBucks after the group restructured.",
-            "highlights": [
-                "Stack: Python, C#, XGBoost, CUDA, ElasticSearch, Kafka, Neo4j, MS SQL, MongoDB, .NET Web APIs, Flask, FastAPI."
-            ],
-            "url": "https://www.linkedin.com/company/mybucks/"
-        },
-        {
-            "name": "MyBucks",
-            "company": "MyBucks",
-            "position": "Data Scientist",
-            "startDate": "2018-01-01",
-            "endDate": "2021-10-31",
-            "summary": "At MyBucks I built high-availability OpenShift clusters and automated DevOps pipelines across 25+ projects. I developed a fraud detection system using Python and Neo4j, provisioned Kafka and ElasticSearch clusters, and led the engineering of secure and scalable machine learning platforms, enabling advanced analytics for financial services with fast time-to-market. My input delivered reduced hardware footprints while increasing hosting capacity and system resilience and improved system performance.",
-            "highlights": [
-                "Designed and implemented HA Openshift clusters based on official reference architectures.",
-                "Automated OpenShift and Cloudstack cluster provisioning using Ansible for IaC.",
-                "Automated DevOps and MlOps pipelines for 25+ projects with GitOps practices.",
-                "High-availability deployments of ElasticSearch, Kafka, MongoDB, Neo4J, PostgreSQL, and MySQL.",
-                "Team Lead of an in-house fraud detector using Python and Neo4J.",
-                "Stack: Python, C#, XGBoost, CUDA, ElasticSearch, Kafka, Neo4j, MS SQL, MongoDB, .NET Web APIs, Flask, FastAPI."
-            ],
-            "url": "https://www.linkedin.com/company/mybucks/"
-        },
-        {
-            "name": "Marching Kubes",
-            "company": "Marching Kubes",
-            "position": "Founder",
-            "startDate": "2013-05-01",
-            "summary": "I founded Marching Kubes to deliver consulting and engineering services in data analytics, machine learning, DevOps, and GIS. I have designed OpenShift OKD architectures, automated CI/CD deployments with Kubernetes and Ansible to enable robust DevOps and MlOps practices, thereby reducing hardware footprints while increasing hosting capacity with direct cost savings. I developed custom 3D graphics and photogrammetry software for clients enabling advanced real-time visualization and analysis of geospatial data products, resulting in functional gains that boosted product sales.",
-            "highlights": [
-                "Machine Learning, Data Analytics, Data Engineering.",
-                "MlOps, CI/CD, Docker, DevOps architecture & consultation.",
-                "Generative AI / Agentic LLM / Model Context Protocol integration and consulting, FastMCP, LangChain, LlamaIndex.",
-                "Document understanding, knowledge graphs, semantic search.",
-                "Python / .NET / Node.js software development.",
-                "Kubernetes / consulting. Public, private, and hybrid cloud environments, provisioning, and high availability.",
-                "3D graphics, photogrammetry, GIS, mapping, geospatial analysis.",
-                "Specialized software engineering services."
-            ]
-        },
-        {
-            "name": "Various Clients",
-            "company": "Various Clients",
-            "position": "Senior Software Engineer",
-            "startDate": "1999-06-01",
-            "endDate": "2017-12-31",
-            "summary": "Over nearly two decades I worked with a wide range of clients - from startups and small businesses to large financial institutions and international enterprises - building mission-critical systems and bespoke software solutions. My work spanned enterprise services, web/desktop/mobile applications, and geospatial systems, using technologies such as C#, ASP.NET, SQL Server, Oracle, Embedded C/C++, and Azure. I developed solutions in sectors including finance, insurance, manufacturing, logistics, and geospatial surveying. This period laid the foundation for my later leadership roles, sharpening my skills in C#, .NET, SQL, embedded systems, and large-scale enterprise software delivery, while exposing me to diverse industries and technical challenges.",
-            "highlights": [
-                "Designing and deploying ERP, Banking, call centre integration platforms and insurance backend systems in secure financial environments.",
-                "Building 3D terrain rendering, geospatial analysis, and photogrammetry software for international clients.",
-                "Engineering integration and call-centre platforms for major banks and insurers.",
-                "Developing reverse-engineering and regression-testing tools for large SQL environments across multiple data centres.",
-                "Developed mobile logistics planning and infrastructure and asset management systems using C#, T/SQL, C/C++.",
-                "Online shop portal (UI & backend) using ASP.NET Web API, angular, MS SQL, Azure & 3rd party integrations (shipment, ID verification, bank verification).",
-                "Designed and built robust task management and scheduling software and applied it to data acquisition, database maintenance and video stream processing across multiple projects.",
-                "Bespoke ERP software development, using C#, T/SQL, Oracle, Embedded C and C++.",
-                "Stack: C#, ASP.NET, .NET, T/SQL, MS SQL, Oracle, Azure, Angular, Embedded C, C++, PowerShell, SQL SMO."
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "University of Pretoria",
-            "area": "Computer Science",
-            "studyType": "Bsc (Hons)",
-            "startDate": "1999-02-01",
-            "endDate": "2002-11-30",
-            "courses": []
-        }
-    ],
-    "skills": [
-        {
-            "name": "Data & Analytics",
-            "level": "Advanced",
-            "keywords": [
-                "Credit Scoring",
-                "Data Engineering",
-                "Data Integration",
-                "Fraud Detection",
-                "Machine Learning",
-                "Generative AI",
-                "Modelling",
-                "Processing",
-                "Visualization",
-                "MlOps"
-            ],
-            "rating": 4,
-            "yearsOfExperience": 7
-        },
-        {
-            "name": "Industry",
-            "level": "Master",
-            "keywords": [
-                "Banking",
-                "Consulting",
-                "Finance",
-                "Geospatial Surveying",
-                "Insurance",
-                "Leadership",
-                "Lending",
-                "Manufacturing",
-                "Remote Sensing",
-                "Risk Management"
-            ],
-            "rating": 5,
-            "yearsOfExperience": 26
-        },
-        {
-            "name": "Industry",
-            "level": "Intermediate",
-            "keywords": [
-                "Actuarial Science",
-                "Automotive"
-            ],
-            "rating": 4,
-            "yearsOfExperience": 26
-        },
-        {
-            "name": "Geographic Information Systems",
-            "level": "Advanced",
-            "keywords": [
-                "3D",
-                "Data Acquisition",
-                "Mapping",
-                "GIS",
-                "Georeferencing",
-                "Geospatial Analysis",
-                "Geospatial Data",
-                "Lidar",
-                "Map Projections",
-                "Photogrammetry",
-                "Point Clouds",
-                "Satellite Imagery",
-                "Terrain Rendering",
-                "Visualization"
-            ],
-            "rating": 4,
-            "yearsOfExperience": 5
-        },
-        {
-            "name": "Technology",
-            "level": "Master",
-            "keywords": [
-                "Ansible",
-                "C/C++",
-                "C#",
-                "CI/CD",
-                "Cypher",
-                "DevOps",
-                "Docker",
-                "Elasticsearch",
-                "FastAPI",
-                "FastMCP",
-                "Flask",
-                "GitOps",
-                "Grafana",
-                "Git",
-                "Graph Databases",
-                "Javascript",
-                "Kafka",
-                "LangChain",
-                "LlamaIndex",
-                "Model Context Protocol",
-                "MongoDB",
-                "MS SQL",
-                "Neo4j",
-                "Node.js",
-                "Python",
-                "Smartbear Zephyr",
-                "SQL",
-                "WebGL",
-                ".Net"
-            ],
-            "rating": 5,
-            "yearsOfExperience": 26
-        },
-        {
-            "name": "Infrastructure",
-            "level": "Master",
-            "keywords": [
-                "Kubernetes",
-                "Deployment Automation",
-                "Docker",
-                "Openshift",
-                "High Availability"
-            ],
-            "rating": 5,
-            "yearsOfExperience": 7
-        }
-    ],
-    "interests": [
-        {
-            "name": "Mathematics",
-            "summary": "I enjoy solving mathematical problems and puzzles.",
-            "keywords": [
-                "logic",
-                "graph theory",
-                "combinatorics",
-                "differential equations",
-                "optimization"
-            ]
-        },
-        {
-            "name": "Artificial Intelligence",
-            "summary": "Exited by the possibilities of AI and machine learning.",
-            "keywords": [
-                "computer vision",
-                "natural language processing",
-                "knowledge graphs",
-                "deep learning"
-
-           ]
-        },
-        {
-            "name": "Software Engineering",
-            "summary": "Inspired by the possibilities and challenges of software engineering.",
-            "keywords": [
-                "formal methods",
-                "scheduling",
-                "automation",
-                "devops",
-                "concurrency",
-                "distributed systems",
-                "algorithms",
-                "geo-spatial",
-                "data science"
-            ]
-        },
-        {
-            "name": "Other",
-            "keywords": [
-                "photography",
-                "hiking",
-                "bonsai",
-                "woodworking",
-                "puzzles"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Afrikaans",
-            "fluency": "Native speaker"
-        },
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "meta": {
-        "theme": "Elegant"
+    "summary": "Principal ML & Data Platform Engineer with 25+ years building production-grade data platforms, MLOps pipelines, and high-availability systems across banking, automotive, and consulting. Known for shipping reliable infra (Kubernetes/OpenShift), scalable data & ML stacks (Python/C#/Kafka/SQL/Neo4j), and fraud & analytics solutions that bridge research and operations."
+  },
+  "work": [
+    {
+      "name": "PwC South Africa",
+      "position": "Data Platform Software Engineer",
+      "url": "https://www.linkedin.com/company/pwc/",
+      "startDate": "2024-10-01",
+      "summary": "Designing a bespoke data modelling platform enabling actuarial and data-science workloads end-to-end (ingest → processing → storage) with reliability and scale.",
+      "highlights": [
+        "Architected ingestion, processing and storage layers for actuarial analytics (Python, SQL, Kubernetes/OpenShift, DevOps).",
+        "Established platform guardrails for performance, reproducibility and compliance.",
+        "Accelerated model delivery by standardising pipelines and environments."
+      ]
+    },
+    {
+      "name": "BMW IT Hub South Africa",
+      "position": "Site Reliability Engineer",
+      "url": "https://www.linkedin.com/company/bmwithubsouthafrica/",
+      "startDate": "2023-05-01",
+      "endDate": "2024-09-30",
+      "summary": "SRE/DevOps for Plant Connectivity—a real-time automotive data platform—focusing on uptime, observability, and automated delivery.",
+      "highlights": [
+        "Hardened runtime and deploy paths with Kubernetes, Docker and CI/CD to improve reliability of high-volume data flows.",
+        "Implemented actionable observability to shorten detect→diagnose cycles for production incidents.",
+        "Codified infra as code and release workflows to reduce change risk."
+      ]
+    },
+    {
+      "name": "Vision Bank",
+      "position": "Principal Machine Learning Engineer",
+      "url": "https://www.linkedin.com/company/visionbanksa/",
+      "startDate": "2022-10-01",
+      "endDate": "2023-04-30",
+      "summary": "Led design of the enterprise data platform inside the Data & Advanced Analytics team.",
+      "highlights": [
+        "Built ingestion & streaming foundations with schema and lineage management (Python, SQL, Kafka).",
+        "Enabled production ML + reporting by unifying operational and warehouse data paths.",
+        "Set MLOps practices for reliable deployment and monitoring of models."
+      ]
+    },
+    {
+      "name": "Vision Bank",
+      "position": "Development Chapter Lead",
+      "url": "https://www.linkedin.com/company/visionbanksa/",
+      "startDate": "2021-11-01",
+      "endDate": "2022-09-30",
+      "summary": "Chapter Lead in a startup digital bank, overseeing 60+ software and test engineers across multiple tribes.",
+      "highlights": [
+        "Raised engineering standards across SDLC; advanced test automation and CI/CD.",
+        "Balanced people leadership with technology direction (C#, Python, DevOps).",
+        "Improved delivery velocity by streamlining ways-of-working and tooling."
+      ]
+    },
+    {
+      "name": "Fractal Labs",
+      "position": "Chief Technology Officer",
+      "url": "https://www.linkedin.com/company/fractallabs/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-10-31",
+      "summary": "Technology strategy and delivery for a data analytics provider (continuation of MyBucks post-restructure).",
+      "highlights": [
+        "Shipped analytics & fraud solutions across SQL/NoSQL and ML stacks (MS SQL, MongoDB, Neo4j, Python, C#, XGBoost, CUDA).",
+        "Ran HA deployments on Kubernetes/OpenShift with strong DevOps/MLOps.",
+        "Delivered client-facing platforms and integrations at production scale."
+      ]
+    },
+    {
+      "name": "MyBucks",
+      "position": "Data Scientist",
+      "url": "https://www.linkedin.com/company/mybucks/",
+      "startDate": "2018-01-01",
+      "endDate": "2020-09-30",
+      "summary": "Platform engineering, MLOps and fraud detection in a financial services environment.",
+      "highlights": [
+        "Built 3 HA OpenShift clusters and CloudStack infra automated with Ansible.",
+        "Implemented 25+ GitOps CI/CD pipelines to speed safe delivery.",
+        "Provisioned HA Kafka, Elasticsearch, Neo4j, PostgreSQL, MySQL.",
+        "Led Python+Neo4j fraud detection initiative from prototype to prod.",
+        "Delivered cross-platform integrations across 25+ projects."
+      ]
+    },
+    {
+      "name": "Marching Kubes",
+      "position": "Founder",
+      "startDate": "2013-05-01",
+      "summary": "Boutique consultancy for data platforms, ML/MLOps, DevOps and GIS/3D.",
+      "highlights": [
+        "Designed OpenShift OKD architectures across public/private/hybrid.",
+        "Delivered CI/CD and infra automation (Kubernetes, Docker, Ansible).",
+        "Built custom 3D, photogrammetry and GIS software for real-time visualisation.",
+        "Consulted on LLM/agentic integrations and knowledge retrieval (LangChain, LlamaIndex, MCP) where appropriate."
+      ]
+    },
+    {
+      "name": "Various Clients",
+      "position": "Senior Software Engineer",
+      "startDate": "1999-06-01",
+      "endDate": "2017-12-31",
+      "summary": "Mission-critical enterprise services and geospatial/ERP systems across finance, insurance, manufacturing, logistics and surveying.",
+      "highlights": [
+        "Built call-centre integrations and insurance backends (.NET/C#/WCF/SQL).",
+        "Engineered ERP and embedded solutions (C#, T-SQL, Oracle, C/C++).",
+        "Developed 3D terrain rendering & satellite projection (ASP.NET, C#, T-SQL).",
+        "Created PowerShell + SQL-SMO reverse-engineering tools for complex SQL estates.",
+        "Delivered mobile asset/logistics systems with interactive geospatial tooling."
+      ]
     }
+  ],
+  "projects": [
+    {
+      "name": "Fraud Graph Detector",
+      "summary": "In-house fraud detection using graph features and ML.",
+      "highlights": [
+        "Python + Neo4j graph modelling and feature extraction for fraud patterns.",
+        "Operationalised scoring within existing data platform and CI/CD."
+      ],
+      "keywords": ["Python", "Neo4j", "MLOps"]
+    },
+    {
+      "name": "OpenShift HA Clusters",
+      "summary": "Production OpenShift built to reference architecture with full IaC.",
+      "highlights": [
+        "3 clusters; automated provisioning with Ansible and CloudStack.",
+        "Deployed Kafka/Elasticsearch/Neo4j/Postgres/MySQL in HA topologies."
+      ],
+      "keywords": ["OpenShift", "Ansible", "CloudStack", "Kafka", "Elasticsearch"]
+    },
+    {
+      "name": "Geospatial 3D Terrain System",
+      "summary": "3D terrain rendering, hypsometric tinting and satellite projection for survey workflows.",
+      "highlights": [
+        "Scheduling/data-acquisition and video-processing pipelines.",
+        "Delivered as robust, maintainable .NET services."
+      ],
+      "keywords": ["C#", "ASP.NET", "T-SQL", "GIS"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pretoria",
+      "area": "Computer Science",
+      "studyType": "BSc (Hons)",
+      "startDate": "1999-02-01",
+      "endDate": "2002-11-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data & Analytics",
+      "level": "Expert",
+      "keywords": ["Data Engineering", "MLOps", "Streaming", "Fraud Detection", "Generative AI", "Visualization"]
+    },
+    {
+      "name": "Platforms & Infra",
+      "level": "Expert",
+      "keywords": ["Kubernetes", "OpenShift", "CI/CD", "IaC (Ansible)", "Docker", "High Availability", "Observability"]
+    },
+    {
+      "name": "Languages & Frameworks",
+      "level": "Expert",
+      "keywords": ["Python", "C#", "SQL/T-SQL", "Cypher", ".NET", "Node.js", "FastAPI", "Flask", "WebGL"]
+    },
+    {
+      "name": "Data Stores",
+      "level": "Advanced",
+      "keywords": ["PostgreSQL", "MySQL", "MS SQL", "Kafka", "Elasticsearch", "MongoDB", "Neo4j"]
+    },
+    {
+      "name": "Domain",
+      "level": "Advanced",
+      "keywords": ["Banking/FinTech", "Automotive", "Consulting", "Insurance", "Actuarial Analytics", "GIS/Photogrammetry"]
+    }
+  ],
+  "languages": [
+    { "language": "Afrikaans", "fluency": "Native speaker" },
+    { "language": "English", "fluency": "Native speaker" }
+  ],
+  "interests": [
+    {
+      "name": "Mathematics",
+      "keywords": ["Logic", "Graph Theory", "Combinatorics", "Differential Equations", "Optimization"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["NLP", "Computer Vision", "Knowledge Graphs", "Deep Learning"]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": ["Distributed Systems", "Formal Methods", "Automation", "DevOps"]
+    }
+  ],
+  "meta": { "theme": "Elegant" }
 }
