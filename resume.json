@@ -11,7 +11,14 @@
       "region": "Gauteng",
       "countryCode": "ZA"
     },
-    "summary": "Principal ML & Data Platform Engineer with 25+ years building production-grade data platforms, MLOps pipelines, and high-availability systems across banking, automotive, and consulting. Known for shipping reliable infra (Kubernetes/OpenShift), scalable data & ML stacks (Python/C#/Kafka/SQL/Neo4j), and fraud & analytics solutions that bridge research and operations."
+    "summary": "Principal ML & Data Platform Engineer with 25+ years building production-grade data platforms, MLOps pipelines, and high-availability systems across banking, automotive, and consulting. Known for shipping reliable infra (Kubernetes/OpenShift), scalable data & ML stacks (Python/C#/Kafka/SQL/Neo4j), and fraud & analytics solutions that bridge research and operations.",
+    "profiles": [
+        {
+            "network": "LinkedIn",
+            "username": "kobusvdm",
+            "url": "https://www.linkedin.com/in/kobusvdm/"
+        }
+    ]
   },
   "work": [
     {
